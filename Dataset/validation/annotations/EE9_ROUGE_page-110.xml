@@ -1,0 +1,26 @@
+<annotation>
+	<folder>EE9_ROUGE</folder>
+	<filename>EE9_ROUGE_page-110.jpg</filename>
+	<path>/Users/cengt/Documents/Code/shape_re/src/shape_re/pdf/EE9_ROUGE/page-110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>628</width>
+		<height>770</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>634</ymin>
+			<xmax>425</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>

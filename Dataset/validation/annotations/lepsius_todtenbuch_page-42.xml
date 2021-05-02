@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lepsius_todtenbuch</folder>
+	<filename>lepsius_todtenbuch_page-42.jpg</filename>
+	<path>/Users/cengt/Documents/Code/shape_re/src/shape_re/pdf/lepsius_todtenbuch/page-42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>710</width>
+		<height>738</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>458</ymin>
+			<xmax>458</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>
