@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hieroglyphictext02brituoft</folder>
+	<filename>hieroglyphictext02brituoft_page-22.jpg</filename>
+	<path>/Users/cengt/Documents/Code/shape_re/src/shape_re/pdf/hieroglyphictext02brituoft/page-22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>414</width>
+		<height>676</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>125</ymin>
+			<xmax>197</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>
