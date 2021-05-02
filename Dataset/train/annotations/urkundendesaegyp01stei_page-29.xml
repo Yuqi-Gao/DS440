@@ -1,0 +1,26 @@
+<annotation>
+	<folder>urkundendesaegyp01stei</folder>
+	<filename>urkundendesaegyp01stei_page-29.jpg</filename>
+	<path>/Users/cengt/Documents/Code/shape_re/src/shape_re/pdf/urkundendesaegyp01stei/page-29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>702</width>
+		<height>1014</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>164</ymin>
+			<xmax>515</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

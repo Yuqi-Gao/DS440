@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MIFAO34</folder>
+	<filename>MIFAO34_page-94.jpg</filename>
+	<path>/Users/cengt/Documents/Code/shape_re/src/shape_re/pdf/MIFAO34/page-94.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>706</width>
+		<height>890</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>206</ymin>
+			<xmax>205</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
