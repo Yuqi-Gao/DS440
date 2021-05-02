@@ -1,0 +1,26 @@
+<annotation>
+	<folder>EE11_ROUGE</folder>
+	<filename>EE11_ROUGE_page-15.jpg</filename>
+	<path>/Users/cengt/Documents/Code/shape_re/src/shape_re/pdf/EE11_ROUGE/page-15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>624</width>
+		<height>769</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>686</ymin>
+			<xmax>253</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+</annotation>
