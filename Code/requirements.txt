@@ -1,0 +1,4 @@
+PyMuPDF==1.18.10
+imageai==2.1.6
+Pillow==7.0.0
+tensorflow==2.4.0
