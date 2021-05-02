@@ -338,6 +338,16 @@ def test(img_path, img_out, minimum_percentage_probability=10):
     :param minimum_percentage_probability \\Minimum similarity of graphics
     """
     print('test: {} -> {}'.format(img_path, img_out))
+    
+    '''
+    /***************************************************************************************
+*    Title: ImageAI : Custom Object Detection
+*    Author: ImageAI Developers
+*    Date: 2019
+*    Code version: latest
+*    Availability: https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/Custom/CUSTOMDETECTION.md
+*
+***************************************************************************************/'''
 
     # Load the model
     detector = CustomObjectDetection()
@@ -358,6 +368,6 @@ def test(img_path, img_out, minimum_percentage_probability=10):
         print("{}: {} -> {}".format(detection['name'], detection['percentage_probability'], detection['box_points']))
 
 # Recognition effect test
-img_test = 'test2.jpg'
-img_out = 'test_out2.jpg'
+img_test = 'test.jpg'
+img_out = 'test_out.jpg'
 test(img_test, img_out)
