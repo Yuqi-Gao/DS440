@@ -1,0 +1,26 @@
+<annotation>
+	<folder>590787567</folder>
+	<filename>590787567_page-335.jpg</filename>
+	<path>/Users/cengt/Documents/Code/shape_re/src/shape_re/pdf/590787567/page-335.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>595</width>
+		<height>842</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>408</ymin>
+			<xmax>185</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>
